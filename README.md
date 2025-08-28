@@ -80,3 +80,7 @@ Skripta bo:
 ## Opozorilo
 
 Uporabite skript odgovorno in le za varnostno kopiranje lastnih albumov. Zloraba te skripte bo verjetno pripeljala do bana na MojAlbum.com strani.
+
+### Transparentnost
+
+_Skripta je bila ustvarjena s pomočjo Claude.ai_
