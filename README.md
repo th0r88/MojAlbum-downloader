@@ -20,7 +20,7 @@ Ta skripta omogoča avtomatsko varnostno kopiranje vseh fotografij iz albumov na
 
 ## Sistemske zahteve
 
-- **Python 3.6 ali novejši** (preverite z `python3 --version`)
+- **Python 3.6 ali novejši** (preverite s `python3 --version`)
 
 ## Namestitev
 
@@ -57,18 +57,18 @@ python mojalbum_downloader.py
 
 Skripta vas bo vprašala:
 - URL vašega MojAlbum albuma (npr. `https://mojalbum.com/uporabnik/album`)
-- Zakasnitev med prenosi (priporočeno: 1 sekunda)
+- kakšna naj bo zakasnitev med prenosi (priporočeno: 1 sekunda)
 
 ## Primer
 
 ```
-Vnesite URL vašega MojAlbuma: https://mojalbum.com/janez/poletje2024
+Vnesite URL vašega albuma: https://mojalbum.com/janez/poletje2024
 ```
 
 Skripta bo:
-- Našel vse fotografije v albumu "poletje2024"
-- Prenesel jih v mapo `janez_poletje2024_photos/`
-- Fotografije shranil z ID-ji (npr. `5373703.jpg`)
+- Našla vse fotografije v albumu "poletje2024"
+- Prenesla jih v mapo `janez_poletje2024_photos/`
+- Fotografije shranila z ID-ji (npr. `5373703.jpg`)
 
 ## Značilnosti
 
@@ -79,7 +79,7 @@ Skripta bo:
 
 ## Opozorilo
 
-Uporabite skript odgovorno in le za varnostno kopiranje lastnih albumov. Zloraba te skripte bo verjetno pripeljala do bana na MojAlbum.com strani.
+Uporabite skripto odgovorno in le za varnostno kopiranje lastnih albumov. Zloraba te skripte bo verjetno pripeljala do bana na MojAlbum.com strani.
 
 ### Transparentnost
 
